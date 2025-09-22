@@ -1,0 +1,9 @@
+# Ignore Python virtual environment folders
+fact_env/
+env/
+
+# Ignore the file containing secret API keys
+.env
+
+# Ignore Python cache folders
+__pycache__/
